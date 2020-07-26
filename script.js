@@ -15,7 +15,8 @@ let input = document.getElementById("input");
 let output = document.getElementById("output");
 
 function calculate(data) {
-  switch (data) {
+ switch (data) 
+ {
     case "AC":
       input.innerHTML = "";
       output.innerHTML = 0;

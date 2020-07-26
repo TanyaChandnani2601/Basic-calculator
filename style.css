@@ -79,7 +79,9 @@ background-color: var(--header-color);
 }
 .calculator-body
 {
+  
    background-color: var(--body-color);
+   padding-right: 5%;
 }
 .calculator-footer
 {
